@@ -1,7 +1,7 @@
 from tkinter.constants import COMMAND
 from validate_email import validate_email
 import PySimpleGUI as sg
-from Linkedin import Linkedin_bot
+from linkedin import Linkedin_bot
 import os
 
 class Tela_Login:
