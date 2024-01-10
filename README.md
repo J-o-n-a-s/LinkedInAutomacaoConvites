@@ -52,6 +52,7 @@ O campo 3 é a palavra chave de pesquisa, por exemplo se você inserir RH, vai s
  - Tkinter -> Para utilização da caixa de diálogo de seleção de diretório para exportação de arquivo;
  - Random -> Para geração de valores randomicos.
  - Selenium -> Framework portátil para testar aplicativos web.
+ - cx_Freeze -> Para criação de arquivo executável;
  - PySimpleGUI -> Interface gráfica;
  - validate_email -> Para validação do e-mail inserido.
 
