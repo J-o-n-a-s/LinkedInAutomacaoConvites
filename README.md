@@ -67,7 +67,7 @@ O campo 3 é a palavra chave de pesquisa, por exemplo se você inserir RH, vai s
  - `pip install poetry` para instalar o gerenciador de pacotes;
  - `poetry install` para que o poetry instale os pacotes usados no projeto;
  - `poetry shell` para que o poetry crie um ambiente virtual;
- - `python src/main.py` para executar o projeto.
+ - `python src/app.py` para executar o projeto.
 
 ## Licença
 
