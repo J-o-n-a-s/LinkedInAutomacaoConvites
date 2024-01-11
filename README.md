@@ -47,7 +47,6 @@ O campo 3 é a palavra chave de pesquisa, por exemplo se você inserir RH, vai s
 
 ### Bibliotecas e recursos utilizados
 
- - OS -> Biblioteca para funções do sistema operacional;
  - Time -> Para adição de tempo e registro do início, fim e duração do processo;
  - Tkinter -> Para utilização da caixa de diálogo de seleção de diretório para exportação de arquivo;
  - Random -> Para geração de valores randomicos.
