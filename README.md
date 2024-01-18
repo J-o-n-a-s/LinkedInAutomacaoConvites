@@ -32,7 +32,7 @@
 
 ## Introdução
 
-Este aplicativo é super simples e intuitivo.
+A ideia desse aplicativo é  que ele seja super simples e intuitivo de utilizar.
 
 ## Descrição do projeto
 
